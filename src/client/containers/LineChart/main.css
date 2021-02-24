@@ -1,5 +1,5 @@
 .Chart {
-  flex: 1;
+  flex: 1; //it will divide into 2 part
 }
 
 .line {
