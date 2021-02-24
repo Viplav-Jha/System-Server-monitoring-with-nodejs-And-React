@@ -9,7 +9,7 @@ class LineChart extends Component {
   constructor(props) {
     super(props);
 
-    // initialize local state
+    // initialize local in state 
     const { width, height, margin } = props;
     const actualWidth = width - margin.left - margin.right;
     const actualHeight = height - margin.top - margin.bottom;
